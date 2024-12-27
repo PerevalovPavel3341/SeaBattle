@@ -1,0 +1,5 @@
+a attack
+l load
+s save
+u use_ability
+q quit
